@@ -19,7 +19,7 @@ module.exports = {
 		"https://overnext.netlify.app/page-1",
 		"https://overnext.netlify.app/hybrid/post/1",
 		"https://overnext.netlify.app/it/account-settings/billing",
-		"https://overnext.netlify.app/it/legal/privacy"
+		"https://overnext.netlify.app/it/legal/privacy",
 		"https://overnext.vercel.app",
 		"https://overnext.vercel.app/it",
 		"https://overnext.vercel.app/dog",
